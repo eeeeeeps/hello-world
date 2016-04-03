@@ -1,8 +1,11 @@
 # hello-world
-Testin'
+
+Testin’
 
 	Walk before you run...
 
-—Wizard
+— Wizard
 
 Conflict is inevitable
+
+Here are some Wizard quotes to see you through.
