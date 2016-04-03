@@ -1,4 +1,4 @@
-# Wizard the dog
+# Wizard the dog says...
 
 Wizard fizzard bo bizzard me fi lo gizzard – Wizard
 
@@ -11,3 +11,5 @@ Tug tug tug your boat — Wizard
 Wizard people dear wizard — Wizard
 
 Wohowwwowwwowwwwwowwwww — Wizard
+
+Deer! — Wizard
